@@ -1,3 +1,1 @@
-Text Analytics/Sentiment Analysis testing using Python text mining libraries.
-
-Testing TextBlob, NLTK, Gensum (word2vec)
+Text Analytics/Sentiment Analysis testing using Python's text mining libraries, including TextBlob, NLTK, Gensim (word2vec)
